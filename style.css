@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+html,
+body{
+    height: 100%;
+    width:100%;
+}
+H1{
+    color: white;
+    height: 50px;
+    width: ;
+}
+P{
+    color: white;
+}
+main{
+    background-color: aqua;
+    height:100%;
+    width:100%;
+    text-align: CENTER;
+    border: 1px solid black;
+    background-image: URL(https://img.freepik.com/free-photo/colorful-wallpaper-background-multicolored-generative-ai_91128-2257.jpg);
+    background-size: COVER;
+}

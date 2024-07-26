@@ -1,0 +1,61 @@
+/* @font-face {
+     font-family:dg;   
+    src: url("https://github.com/adobe-fonts/source-sans/raw/release/OTF/SourceSans3-Black.otf");
+   }
+    body{
+        font-family: sans-serif;
+    }
+    p{
+        color:rgba(54, 14, 163, 0.733);
+        font-size:18px;
+        line-height:1.2;
+        letter-spacing:2px;
+        word-spacing:10px;
+        text-align:left;
+    } */
+    body{
+        font-family: "Teachers", sans-serif;
+     }
+
+     /* h1{
+        text-align: center;
+        margin-top: 20%;
+     } */
+      /* div{
+        border:2px solid black;
+        height: 200px;
+        width:200px;
+      } */
+      .box{
+        border:1px solid rgb(255, 0, 0);
+        height: 200px;
+        width:200px;
+        box-sizing: border-box;
+      }
+      .red{
+        background-color: rgb(182, 231, 4);
+        margin-bottom: 30px;
+        padding: 20px 10px 0 20px;
+      }
+      /* button{
+        padding:6px 12px;
+        border:1px solid black;
+        border-radius:10px;
+        background-color: transparent;
+        cursor:pointer; */
+        .red button {
+          background-color: rgb(0, 123, 255); /* Blue background */
+          border-radius:10px;
+          color: white; /* White text */
+      }
+      
+      /* Secondary button style */
+      .yellow button {
+          background-color: rgb(75, 68, 7); /* Gray background */
+          color: white; /* White text */
+      }
+      .yellow{
+        background-color: rgb(241, 245, 16);
+        margin-top: 40px;
+        padding-left: 20px;
+      }
